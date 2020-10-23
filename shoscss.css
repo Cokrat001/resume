@@ -1,0 +1,17 @@
+body{
+    margin:0;
+    padding-bottom: 0;
+}
+.page{
+    width: 800px;
+    margin: 0px auto;
+    background: rgba(0, 195, 255, 0.425);
+}
+.table{
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+}
+.right{
+    text-align: right;
+}
