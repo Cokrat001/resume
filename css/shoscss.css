@@ -1,17 +1,30 @@
-body{
-    margin:0;
+body {
+    margin: 0;
     padding-bottom: 0;
 }
-.page{
+
+.page {
     width: 800px;
     margin: 0px auto;
     background: rgba(0, 195, 255, 0.425);
 }
-.table{
+
+.table {
     table-layout: fixed;
     width: 100%;
     border-collapse: collapse;
 }
-.right{
+
+.right {
     text-align: right;
+}
+
+.header {
+    font-family: "Montserrat";
+    font-size: 25px;
+}
+
+a {
+    color: red;
+    text-decoration: none;
 }
